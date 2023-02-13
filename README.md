@@ -12,7 +12,7 @@ Node.js, Redux, and responsiveness.</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivshankar0965&column=-1&theme=juicyfresh" alt="shivshankar0965" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/shivshankar263" target="blank"><img src="https://img.shields.io/twitter/follow/shivshankar263?logo=twitter&style=for-the-badge" alt="shivshankar263" /></a> </p>
+<p align="center"> <a href="https://twitter.com/shivshankar263" target="_blank"><img src="https://img.shields.io/twitter/follow/shivshankar263?logo=twitter&style=for-the-badge" alt="shivshankar263" /></a> </p>
 
 - 🌱 I’m currently learning **react, redux, next, scss, html, css, javascript, node.js, express, mondoDB**
 
@@ -24,10 +24,10 @@ Node.js, Redux, and responsiveness.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/shivshankar0965/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivshankar0965/" height="30" width="40" /></a>
-  <a href="https://codesandbox.io/u/shivshankar0965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/shivshankar0965" height="30" width="40" /></a>
-<a href="https://codepen.io/shivdevpages" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shivdevpages" height="30" width="40" /></a>
-<a href="https://twitter.com/shivshankar263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivshankar263" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shivshankar0965/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivshankar0965/" height="30" width="40" /></a>
+  <a href="https://codesandbox.io/u/shivshankar0965" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/shivshankar0965" height="30" width="40" /></a>
+<a href="https://codepen.io/shivdevpages" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shivdevpages" height="30" width="40" /></a>
+<a href="https://twitter.com/shivshankar263" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivshankar263" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
